@@ -1,0 +1,13 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "importance": "normal",
+  "sizeLabel": "small",
+  "title": "Nazil 1.0",
+  "changelog": [
+    "دعم تحميل فيديوهات إنستغرام",
+    "تحسينات على الشكل والخط",
+    "إصلاحات عامة"
+  ],
+  "apkUrl": "https://download.nazil.site/Nazil.apk"
+}
