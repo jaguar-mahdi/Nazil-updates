@@ -1,14 +1,13 @@
 {
-  "versionCode": 1,
+  "versionCode": 2,
   "versionName": "1.1",
   "importance": "normal",
   "sizeLabel": "small",
   "title": "Nazil 1.0",
   "changelog": [
-    "First official release",
-    "Download from TikTok, Instagram, Facebook, YouTube",
-    "Background downloads with progress",
-    "Pause, resume and re-download controls"
+    "دعم تحميل فيديوهات إنستغرام",
+    "تحسينات على الشكل والخط",
+    "إصلاحات عامة"
   ],
   "apkUrl": "https://github.com/jaguar-mahdi/Nazil-updates/releases/download/v1.0/Nazil.apk"
 }
